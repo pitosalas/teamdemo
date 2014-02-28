@@ -1,12 +1,10 @@
 David test
 
-<<<<<<< HEAD
 changes made ...
-=======
 This is Pito's change
+
+Make it fun
+
 My change was more fun
-
-
->>>>>>> dd771f3c0827257fd41ec6e058bc34ed1405f150
-
 changes made by jing...
+
